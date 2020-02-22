@@ -1,4 +1,4 @@
 steps:
   - name: 'ubuntu'
-    args: ["echo", "hello ring of saturn"]
+    args: ["echo", "hello ring of satu"]
 
